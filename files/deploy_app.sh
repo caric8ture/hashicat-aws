@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own.
+  Welcome to ${PREFIX}'s app. I must have bought these shoes from a drug dealer. I don't know what they are laced with, but I have been tripping all day
   <!-- END -->
 
   </div>
